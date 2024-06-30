@@ -42,7 +42,7 @@ go-rest-api
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/go-rest-api.git
+   git clone https://github.com/hasithaishere/go-rest-api-with-postgresql.git
    cd go-rest-api
    ```
 
